@@ -8,8 +8,8 @@ Hi thanks you for reading my bio. Here some infomation of myself
 >Still learn and study progams language
 
 >My hobby is making a video game
-                          
- *Especially pixel, 2d and puzzle*
+
+                           >*Especially pixel, 2d and puzzle*
 
 
 
