@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 # 💫About Me :
-Hi thanks you for reading my bio. Here some infomation of myself
-                                            --I'm new at this--
->My main progams language is: C++, Python and C
+Hi cảm ơn bạn vì đã đọc đây là đôi chút về mình bạn có thêt đọc
+                                            
+>Ngôn ngữ lập trình chính: C++, Python and C
 
->Still learn and study progams language
+>Vẫn còn đang học về code
 
->My hobby is making a video game "*Especially pixel, 2d and puzzle*"
+>Thích làm game về"*Especially pixel, 2d and puzzle*"
 
 
 
